@@ -1,16 +1,21 @@
-### Hi there 👋
+<h1 align="center">Hey there! I'm Swapnil Kale 👋 </h1>
+<h3 align="center">🚀 Java | Javascript | React ♥ | SpringBoot | Typescript  🚀</h3>
+<div>
 
-<!--
-**swapnil-kale7/swapnil-kale7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<div align="left"> 
+  <h3> 👨🏻‍💻 About Me </h3>
 
-Here are some ideas to get you started:
+  -  &nbsp; Exploring new technologies and learning by developing.
+  - 🎓 &nbsp; currently pursuing Bachelors.
+  -  &nbsp; I’m currently working on React Development projects.
+  -  &nbsp; Learning more about Backend Architectures and Frontend Developement.
+  -  &nbsp; Loves Trekking and Exploring nature and connecting to new people.  
+</div> 
+</div>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<div>
+  <h3> 💻 Languages and Tools </h3>
+  <p>
+   <img src="https://brandslogos.com/wp-content/uploads/images/large/java-logo-1.png" width="50"><img src="https://media3.giphy.com/media/ln7z2eWriiQAllfVcn/200w.webp" width="50"><img src="https://d2908q01vomqb2.cloudfront.net/0716d9708d321ffb6a00818614779e779925365c/2020/12/11/ts-logo-512.png" width="50"><img src="https://i.giphy.com/media/eNAsjO55tPbgaor7ma/200w.webp" width="50"><img src="https://dz2cdn1.dzone.com/storage/temp/12434118-spring-boot-logo.png" width="50"><img src="https://media3.giphy.com/media/kdFc8fubgS31b8DsVu/giphy.webp" width="50"><img src="https://media.giphy.com/media/KzJkzjggfGN5Py6nkT/giphy.gif" width="50">
+  <p>
+</div> 
