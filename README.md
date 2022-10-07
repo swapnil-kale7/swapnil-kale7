@@ -9,7 +9,7 @@
   - 🎓 &nbsp; currently pursuing Bachelors.
   -  &nbsp; I’m currently working on React Development projects.
   -  &nbsp; Learning more about Backend Architectures and Frontend Developement.
-  -  &nbsp; Loves Trekking and Exploring nature and connecting to new people.
+  -  &nbsp; Loves Trekking and Exploring nature.
   -  &nbsp; connect me: <a href='kaleswapnil2001@gmail.com'/>kaleswapnil2001@gmail.com</a>
   
 </div> 
