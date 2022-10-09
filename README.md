@@ -1,5 +1,5 @@
 <h1 align="center">Hey there! I'm Swapnil Kale 👋 </h1>
-<h3 align="center">☕ Java | Javascript | React ♥ | SpringBoot | Typescript  🚀</h3>
+<h3 align="center">☕ Java | Javascript | React ♥ | SpringBoot | Typescript 🚀</h3>
 <div>
 
 <div align="left"> 
