@@ -1,13 +1,11 @@
 <h1 align="center">Hey there! I'm Swapnil Kale 👋 </h1>
-<h3 align="center">☕ Java | Javascript | React ♥ | SpringBoot | Typescript 🚀</h3>
+<h3 align="center">☕ Java | SpringBoot | SQL | PLSQL 🚀</h3>
 <div>
 
 <div align="left"> 
   <h3> 👨🏻‍💻 About Me </h3>
 
   -  &nbsp; Exploring new technologies and learning by developing.
-  - 🎓 &nbsp; currently pursuing Bachelors.
-  -  &nbsp; I’m currently working on React Development projects.
   -  &nbsp; Learning more about Backend Architectures and Frontend Developement.
   -  &nbsp; Loves Trekking and Exploring nature.
   -  &nbsp; connect me✉️: <a href='kaleswapnil2001@gmail.com'/>kaleswapnil2001@gmail.com</a>
